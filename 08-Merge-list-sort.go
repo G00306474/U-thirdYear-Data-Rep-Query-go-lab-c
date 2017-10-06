@@ -1,6 +1,6 @@
 //Kevin Moran 
 //G00306474@gmit.ie
-//Code Sourced:  
+//Code Sourced:  https://stackoverflow.com/questions/16248241/concatenate-two-slices-in-go
 
 package main
 
