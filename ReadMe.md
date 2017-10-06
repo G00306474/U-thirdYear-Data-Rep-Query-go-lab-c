@@ -1,13 +1,16 @@
-||| U:\thirdYear\Data Rep Query\go-lab-c
-github mark down
-gonpp in plugin manger on notepad++ for syntax highlight not on college comp 
-git add .
+Hello 
+My name is Kevin Moran, I'm studying software devlopment in GMIT in Galway city Ireland. 
+This repoistary is a serious of problems (listed below) that I have solved in (GO)[https://golang.org/] 
 
-git commit -m "Comment Required"
+are done using the Go programming language, which I am currently learning.
 
-git save 
+In order for you to run these programs you will need to install the GO compiler on your computer.
 
-git pull
+To run these files you will need to install a (go)[https://golang.org/doc/install] compiler, and have the files on your computer, 
+open a command line of your choice. Next, navigate your way to the folder. 
+Then run the command "go build" followed by the name of the go file(including the file extension) you wish to run. 
+This will then create an executeable file of the same name, but with an ".exe" ententsion instead of the ".go" ententsion. 
+Then simpily run the .exe file and the GO program will run.
 
 1. Kon’nichiwa, Sekai!
 
@@ -70,6 +73,7 @@ Hint: to declare and initialize a floating point value, give it floating-point s
 
 z := float64(1)
 z := 1.0
+
 10. Reverse string
 
 Write a function to reverse a string in Go.
